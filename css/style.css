@@ -1,13 +1,13 @@
 body {
   padding: 10px;
   margin: 0px;
-  font-family: "jazz let", fantasy;
+  font-family: "Jazz LET", fantasy;
   overflow: hidden;
 }
 
 #map {
   height: 200px;
-  width: 100vw;
+  width: 200vw;
   position: static;
   border-bottom: 3px solid orange;
   top: 0;
