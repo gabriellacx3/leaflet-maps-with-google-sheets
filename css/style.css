@@ -6,7 +6,7 @@ body {
 }
 
 #map {
-  height: 200px;
+  height: 100px;
   width: 300vw;
   position: static;
   border-bottom: 3px solid orange;
@@ -62,7 +62,7 @@ body {
   /* Important for scrolling! */
   margin: 50px 0 0 0;
   padding: 20px 0 0 0;
-  text-align: left;
+  text-align: center;
 }
 
 .chapter-container img {
