@@ -1,5 +1,5 @@
 body {
-  padding: 10px;
+  padding: 20px;
   margin: 0px;
   font-family: "Jazz LET", fantasy;
   overflow: hidden;
@@ -7,7 +7,7 @@ body {
 
 #map {
   height: 200px;
-  width: 200vw;
+  width: 300vw;
   position: static;
   border-bottom: 3px solid orange;
   top: 0;
