@@ -1,7 +1,7 @@
 body {
   padding: 0px;
   margin: 0px;
-  font-family: fantasy;
+  font-family: "copperplate", fantasy;
   overflow: hidden;
 }
 
@@ -23,7 +23,7 @@ body {
 }
 
 #contents {
-  padding: 0;
+  padding: 10;
   width: 100%;
   margin-top: 0; /*Adjust if Title header needs more space */
   height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
